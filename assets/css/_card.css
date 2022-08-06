@@ -1,0 +1,43 @@
+.card-grid {
+  position: relative;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: var(--gap-lg);
+}
+
+.card-grid>.card {
+  cursor: pointer;
+}
+
+.card {
+  position: relative;
+  background-color: var(--white-color);
+  color: var(--dark-color);
+  padding: var(--gap-md);
+  border-radius: var(--rounded-md);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: var(--shadow-sm);
+}
+
+.card>.card-information {
+  position: relative;
+  text-align: left;
+}
+
+.card>.card-information>.number {
+  font-weight: 700;
+  font-size: var(--f-s-md);
+  opacity: 0.8;
+}
+
+.card>.card-information>.title {
+  font-size: var(--f-s-sm);
+}
+
+.card>.icon {
+  font-size: var(--f-s-lg);
+  opacity: 0.8;
+}

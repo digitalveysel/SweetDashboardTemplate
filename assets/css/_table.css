@@ -1,0 +1,46 @@
+table {
+  border: none;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table > caption {
+  font-size: var(--f-s-md);
+  font-weight: 600;
+  margin: var(--gap-b-md);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+table tr {
+  border: 2px solid var(--light-color);
+  padding: 5px;
+}
+
+table th,
+table td {
+  padding: 10px;
+  text-align: left;
+}
+
+table th {
+  font-size: var(--f-s-sm);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.badge {
+  color: var(--white-color);
+  display: inline-block;
+  padding: 5.6px 10.4px;
+  font-size: var(--f-s-xs);
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: var(--rounded-pill);
+}
