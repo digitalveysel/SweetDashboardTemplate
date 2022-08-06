@@ -20,6 +20,9 @@ The app will automatically reload if you change any o the source files.
     |-- candy
     |-- favicon
     |-- logo
+|-- libs/
+    |-- counter-animation/
+    |-- toastr/
 |-- favicon.svg
 |-- index.html
 |-- style.css
