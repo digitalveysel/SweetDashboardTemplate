@@ -17,9 +17,9 @@ The app will automatically reload if you change any o the source files.
     |-- images/
     |-- sounds/
 |-- design/
-    |-- candy
-    |-- favicon
-    |-- logo
+    |-- candy/
+    |-- favicon/
+    |-- logo/
 |-- libs/
     |-- counter-animation/
     |-- toastr/
