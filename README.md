@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dijitalveysel/SweetDashboardTemplate/ec1266933180f61e883344a34408597268e652ee/design/logo/export/SVG/logo-web-2.svg" title="Sweet Dashboard" width="320"/>
+<img src="https://raw.githubusercontent.com/dijitalveysel/SweetDashboardTemplate/242d75c7321354f92246b5bf6d9f437cbe5e3ed7/design/logo/export/SVG/logo-web-2.svg" title="Sweet Dashboard" width="320"/>
 
 ## Clone & Install Dependencies
 
