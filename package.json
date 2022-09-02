@@ -25,6 +25,7 @@
     "email": "hello@veysel.co"
   },
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "vanilla-tilt": "^1.7.2"
   },
   "devDependencies": {
