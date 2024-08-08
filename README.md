@@ -29,6 +29,9 @@ The app will automatically reload if you change any o the source files.
 |-- main.js
 ```
 
+> This project is completely personal work and other open sources have been used.
+> 
+> It is available for free.
 
 ## MIT License
 
@@ -51,7 +54,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-> This project is completely personal work and other open sources have been used.
-> 
-> It is available for free.
